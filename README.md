@@ -1,3 +1,3 @@
-# EdTech Website
+# TechFlits Website
 
-## It's an EdTech Website
+## Website
